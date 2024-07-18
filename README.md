@@ -4,19 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mikeyji!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Thailand </h3>
+<h3 align="center">I'm a self-taught passionate FrontEnd developer from Thailand </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **KMA**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **React, NextJS, Python**
 
-💬 Ask me about **Node.js, React, Firebase... or anything **
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💼 FrontEnd developer at Spacecamp
 
  </div>
  
