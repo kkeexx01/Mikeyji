@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkeexx01
 - 👀 I’m interested in everything 
-- 🌱 I’m currently learning HTML CSS JS FLUTTER AND SWIFT
+- 🌱 I’m currently learning everything
 - 📫 How to reach me ...
 
 <!---
